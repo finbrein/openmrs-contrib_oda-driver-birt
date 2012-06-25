@@ -1,0 +1,3 @@
+OpenMRS BIRT ODA Driver
+
+A simple ODA plugin that takes a URL for an openmrs instance and prompts the user for a dataset definition and cohort definition
